@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/hoosin">GitHub</a> •
-  <a href="https://www.instagram.com/ihoosin/">Instagram</a> •
+  <a href="https://www.instagram.com/ihoosin/">Instagram</a> 
 </p>
 
 ### Github Stats
