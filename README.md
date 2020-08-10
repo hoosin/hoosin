@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<h3 align="center">👋 Hello! I'm Xin Hu.</h3>
+<h3 align="center">👋 Hello! I'm XIN HU.</h3>
 
 <p align="center">
   <a href="https://github.com/hoosin">GitHub</a> •
