@@ -1,6 +1,4 @@
-<img src="https://github.com/hoosin/hoosin/raw/master/balloon.gif" width="50">
 
-### Hi there 👋
 
 <h3 align="center">👋 Hello! I'm XIN HU.</h3>
 
