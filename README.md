@@ -9,6 +9,9 @@
 
 ### Github Stats
 
-<a href="https://github.com/hoosin"><img src="https://github-readme-stats.vercel.app/api?username=hoosin&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img  src="https://github-stat.alpaca.run/api?username=hoosin&show_icons=true&include_all_commits=true"/>
+<a href="https://github.com/hoosin">
+  <img  src="https://github-stat.alpaca.run/api?username=hoosin&show_icons=true&include_all_commits=true"/>
 </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoosin&layout=compact)
 
