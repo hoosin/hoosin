@@ -10,11 +10,6 @@
 ### Github Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoosin&layout=compact)
 
-
-<a href="https://github.com/hoosin">
-  <img  src="https://github-stat.alpaca.run/api?username=hoosin&show_icons=true&include_all_commits=true"/>
-</a>
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoosin&show_icons=true&&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoosin&show_icons=true)
